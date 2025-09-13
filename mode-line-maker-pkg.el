@@ -1,0 +1,2 @@
+;; Generated package description from mode-line-maker.el  -*- mode: lisp-data; no-byte-compile: t -*-
+(define-package "mode-line-maker" "0.1.0.20250912.174809" "Mode-line helper tools" '((emacs "29.1")) :commit "19836226bb244b6294419cef0e069908285b23ef" :maintainer '("Nicolas P. Rougier" . "Nicolas.Rougier@inria.fr") :keywords '("convenience" "mode-line" "header-line") :url "https://github.com/rougier/mode-line-maker")
